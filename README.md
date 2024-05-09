@@ -24,8 +24,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Back-end:</h3>
-
 
 <p align="left"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
