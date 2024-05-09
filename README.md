@@ -20,6 +20,8 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
   <a href="https://doctrine.com" target="_blank" rel="noreferrer"> <img src="https://doctrine.com/logos/doctrine_black_03.svg" alt="symfony" width="40" height="40"/> </a>
+  <a href="https://www.doctrine-project.org/" target="_blank" rel="noreferrer"><img src="URL_DU_LOGO_DOCTRINE" alt="Doctrine" width="40" height="40"/></a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazidsef&show_icons=true&locale=en&layout=compact" alt="yazidsef" /></p>
