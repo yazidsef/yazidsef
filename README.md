@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/yazid sefsaf" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/yazidsefsaf" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="yazid sefsaf" height="30" width="40" /></a>
     <a href="https://fb.com/yazids sefsaf" target="blank"><img align="center"
